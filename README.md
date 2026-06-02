@@ -34,16 +34,44 @@
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-111827?style=for-the-badge&logo=angular&logoColor=DD0031" alt="Angular" />
-  <img src="https://img.shields.io/badge/Flutter-111827?style=for-the-badge&logo=flutter&logoColor=47C5FB" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Astro-111827?style=for-the-badge&logo=astro&logoColor=FF5D01" alt="Astro" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Dart-111827?style=for-the-badge&logo=dart&logoColor=0175C2" alt="Dart" />
-  <img src="https://img.shields.io/badge/SQL%20Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Oracle-111827?style=for-the-badge&logo=oracle&logoColor=F80000" alt="Oracle" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="42" height="42" /><br />
+      React
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/angular/DD0031" alt="Angular" width="42" height="42" /><br />
+      Angular
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/flutter/47C5FB" alt="Flutter" width="42" height="42" /><br />
+      Flutter
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/astro/FF5D01" alt="Astro" width="42" height="42" /><br />
+      Astro
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" width="42" height="42" /><br />
+      JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/dart/0175C2" alt="Dart" width="42" height="42" /><br />
+      Dart
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" alt="SQL Server" width="42" height="42" /><br />
+      SQL Server
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle" width="42" height="42" /><br />
+      Oracle
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Conecta conmigo
 
